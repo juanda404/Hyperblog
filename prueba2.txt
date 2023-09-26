@@ -1,0 +1,10 @@
+hola mundo estamos registrando un archivo 
+
+lo importante a quie es que el primer documento o archivo base sobre el cual trabajar
+123 , xyc es texto fasura
+
+adios para finarlizar 
+
+ahora vamos a ver que pasa y como devuelvo
+
+ahora adicionamos una new line of text
