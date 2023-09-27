@@ -55,3 +55,14 @@ body{
 #post h1{
     font-size: 20px;
 }
+
+/*ESTILIZANDO EL PIE DE PAGINA DEL BLOG*/
+#foot{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    width: 70%;
+    margin: 0 auto;
+    border: 1px solid #DDD;
+}
